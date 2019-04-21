@@ -52,7 +52,7 @@ section {display: flex;}
 }
 .nav-list li a {
   font-size: 16px;
-  text-transform: uppercase
+  text-transform: uppercase;
   font-weight:700;
   letter-spacing: 0.2px;
 }
